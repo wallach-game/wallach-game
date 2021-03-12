@@ -1,3 +1,3 @@
 Im developer
 
-my favourite language is Javascrip
+my favourite language is Javascript
